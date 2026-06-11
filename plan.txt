@@ -1,0 +1,11 @@
+Wymagania:
+1. W pełni działające, realtime wyświetlanie 3d
+2. Basic realtime render. 
+Form shadows normalnymi i cast shadows depth checkiem.
+3. turnaround obiektu wsad-em na kamerze
+4. Jakiś basic debug mode z licznikiem fps
+5. tekstury
+
+dodatkowe
+6. Import z .obj
+7. Basic metalicness/roughness
